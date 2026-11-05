@@ -3,6 +3,16 @@
     <channel>
         <title>TotalCalendar</title>
         <item>
+            <title>0.3.0</title>
+            <sparkle:releaseNotesLink>https://marinadedduck.github.io/totalcalendar-releases/release-notes/0.3.0.html</sparkle:releaseNotesLink>
+            <pubDate>Thu, 05 Nov 2026 17:12:40 -0500</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.total-calendar.com/updates/TotalCalendar-0.3.0.zip" length="19281263" type="application/octet-stream" sparkle:edSignature="8UaVOfB1UDkoy6TIMMlDI5k5RvQemZTNGIyJHHCdt5iHm4K/uuhD3nvjx9sn5vPY4ziWPfoxgCgj/NLspkTPDg=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <sparkle:releaseNotesLink>https://marinadedduck.github.io/totalcalendar-releases/release-notes/0.2.2.html</sparkle:releaseNotesLink>
             <pubDate>Thu, 29 Oct 2026 22:16:12 -0400</pubDate>
